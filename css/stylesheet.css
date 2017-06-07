@@ -1,0 +1,24 @@
+th {
+	background-color: yellow;
+	font-size: 16px;
+	font: sans-serif;
+}
+
+tr {
+	font-size: 16px;
+	background-color: #efefef;
+	text-align: left;
+}
+table{
+	border: 1px solid black;
+	padding: 1px;
+}
+th{
+	border-bottom: 1px solid blue;
+}
+tbody tr:hover {
+	background-color: yellow; 
+}
+table, th, td{
+font-family: 'Vibur', cursive;
+}
